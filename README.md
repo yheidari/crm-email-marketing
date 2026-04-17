@@ -1,11 +1,10 @@
 # Yashar Heidari — CRM & Email Marketing Specialist Portfolio
 
-Lifecycle automations, segmentation, and deliverability.
+Professional landing page and experience summary.
 
 ## Live
 
-- Live site: https://yheidari.github.io/crm-email-marketing/
-- Repository: https://github.com/yheidari/crm-email-marketing
+- Site: https://yheidari.github.io/crm-email-marketing/
 
 ## Profile
 
@@ -13,7 +12,6 @@ CRM & Email Marketing Specialist with 5 years of experience building lifecycle, 
 
 ## Contact
 
-- Location: Messina, Italy · Open to Remote
+- Location: Messina, Italy | Open to remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
-- GitHub: https://github.com/yheidari/crm-email-marketing
